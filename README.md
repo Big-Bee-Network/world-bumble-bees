@@ -46,10 +46,10 @@ taxonomies:
       enabled: false
       name: Bat Names 
     - id: col
-      enabled: false
+      enabled: true
       name: Catalogue of Life
     - id: gbif
-      enabled: false
+      enabled: true
       name: GBIF Backbone Taxonomy
     - id: globi
       enabled: false
