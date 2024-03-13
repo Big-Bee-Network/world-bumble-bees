@@ -117,7 +117,7 @@ This repository was conceived on 2022-03-08 during the [Alien CSI Hack-a-thon](h
 name | affiliation | orcid 
 --- | --- | ---
 Jorrit Poelen | GloBI; Ronin Institute | https://orcid.org/0000-0003-3138-4118
-your name | your affiliation | your orcid
+Katja Seltmann | UC Santa Barbara | https://orcid.org/0000-0001-5354-6048
 
 
 # Feedback / issues
